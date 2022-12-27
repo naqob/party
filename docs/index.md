@@ -1,20 +1,21 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Link to another page](./another-page.html).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+There should be whitespace between paragraphs.
 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-[jekyll-organization]: https://github.com/jekyll
+# Header 1
 
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
