@@ -2,16 +2,22 @@
 layout: default
 ---
 
-There should be whitespace between paragraphs.
+お久しぶりです川越です。お元気ですか？  
+NAQの同窓会を開催しようと思います。  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+日時：10/14(土)  
+時間：12:00～14:00  
+会場：久屋大通公園フラリエ2F クアドリフォリオ  
+会費：5,500円  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+飲食しながら会話して、演奏したい人は演奏してというカジュアルな会にする予定です。
+ご参加いただける場合、以下のフォームから入力をお願いいたします。締切は９月末です。
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[予約フォーム](https://forms.gle/NMnngwS8Bj4VrPcN9)
+
+皆様との久しぶりの再開を楽しみにしております。  
+何卒よろしくおねがいします。
